@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjA6eHVob25neWlAQDguOS4xNS4yMzA6MjMzMw
+tg://proxy?server=156.238.3.136&port=8080&secret=dd9de5adce06823e6bf9f686e10f1fb1bf
